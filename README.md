@@ -1,6 +1,6 @@
 # how to push a local repository to GitHub
 
-first, create a new repository on GitHub. Then, open your terminal and navigate to the local repository you want to push. Use the following commands:
+first, create a new repository on GitHub. Then, open your terminal and navigate to the local repository you want to push. Use the following commands:-
 
 1. git remote add origin <repository URL> - This command adds a remote repository to your local repository. Replace <repository URL> with the URL of your GitHub repository.
 
