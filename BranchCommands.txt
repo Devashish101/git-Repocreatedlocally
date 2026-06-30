@@ -1,0 +1,15 @@
+# git branch commands:-
+
+1. `git branch` - Lists all local branches in the current repository.
+
+2. `git branch <branch-name>` - Creates a new branch with the specified name.
+
+3. `git branch -M <new-branch-name>` - Renames the current branch to the specified name.
+
+4. `git checkout <branch-name>` - Switches to the specified branch.
+
+5. `git checkout -b <branch-name>` - Creates a new branch and switches to it.
+
+6. `git branch -d <branch-name>` - Deletes the specified branch.
+
+7. `git branch -D <branch-name>` - Forces deletion of the specified branch.
